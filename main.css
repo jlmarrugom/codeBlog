@@ -1,0 +1,38 @@
+body {
+    margin: 0;
+}
+
+.full-container{
+    position: relative;
+    height: 100vh;
+    overflow-y: scroll;
+    overflow-x: hidden;
+    perspective: 8px;
+}
+.image{
+    position: absolute;
+    left: 0;
+    right: 0;
+    margin: 0 auto;
+    height: 100%;
+    width: 100%;
+}
+.back-ground{
+    transform: translateZ(0px) scale(1);
+}
+.middle-ground{
+    margin-top: 50px;
+    transform: translateZ(3px) scale(0.625);
+}
+.fore-ground{
+    margin-top: 200px;
+    transform: translateZ(5px) scale(0.375);
+}
+.fore-ground h1{
+    font-size: 60px;
+    background-color: white;
+    color: black;
+    display: flex;
+    align-content: center;
+    justify-content: center;
+}
