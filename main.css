@@ -15,8 +15,8 @@ body {
     left: 0;
     right: 0;
     margin: 0 auto;
-    height: 50%;
-    width: 50%;
+    height: 100%;
+    width: 100%;
 }
 .back-ground{
     transform: translateZ(0px) scale(1);
@@ -37,5 +37,6 @@ body {
     align-content: center;
     justify-content: center;
 }
+
 
 
