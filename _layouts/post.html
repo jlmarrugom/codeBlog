@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Jose's website</title>
+    <title>{{ page.title }}</title>
     <link rel='stylesheet' href='../css/splendor.css'>
 </head>
 <body>
@@ -15,11 +15,15 @@
     </header>
 
     <main>
+        <p class="post-meta">
+          Posted on {{ page.date | date: "%Y-%m-%d" }}
+          {% include reading_time.html %}
+        </p>
         {{ content }}
     </main>
 
     <footer>
-        <p>&copy; 2025 Jose's CodeBlog</p>
+        <p>&copy; Jose's CodeBlog</p>
     </footer>
 </body>
 </html>
