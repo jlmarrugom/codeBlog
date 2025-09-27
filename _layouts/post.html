@@ -15,11 +15,15 @@
     </header>
 
     <main>
+        <p class="post-meta">
+          Posted on {{ page.date | date: "%Y-%m-%d" }}
+          {% include reading_time.html %}
+        </p>
         {{ content }}
     </main>
 
     <footer>
-        <p>&copy; 2025 Jose's CodeBlog</p>
+        <p>&copy; Jose's CodeBlog</p>
     </footer>
 </body>
 </html>
