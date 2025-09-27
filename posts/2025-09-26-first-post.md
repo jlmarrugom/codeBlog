@@ -12,9 +12,3 @@ Está escrito en español, ya que aunque no es la lengua que la mayoría del mun
 Una de las palabras que más dificil puede caracterizar a una persona es la **disciplina** o templanza, como dirían los estoicos, y entre ese grupo de personas que esa palabra les queda grande estoy yo, no soy particularmente disciplinado, me disperso muy facil, y con el celular, redes sociales, videos, series, y cosas de la vida diaria, no consigo la fuerza de voluntad para escribir constantemente, o para ir mejorando a medida que escribo, pero a veces lo hago, bien sea para aclarar la mente, o simplemente por algo que quería escribir.
 
 Habiendo dicho esto, el blog podría cubrir una variedad de temas, filosofía, software, inteligencia artificial, neurociencia, fitness, etc... El motivo para escribir no hacía falta, pero sí la determinación.
-
-Y para terminar este primer post, un poema:
-
-Si hubiera estudiado más.
-
-Si hubiera estudiado más, sabría que no tenía que estudiar tanto.
