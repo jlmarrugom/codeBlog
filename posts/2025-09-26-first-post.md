@@ -1,14 +1,9 @@
 ---
 layout: post
-title: My First Blog Post
+title: Este es el primer post
 date: 2025-09-26
 read_time: 2 min
 ---
-
-# Este es el primer post
-Posted on 2025-09-26, Read time: 2 min
-
-
 Este post esperó casi 4 años a ser escrito.
 
 Está escrito en español, ya que aunque no es la lengua que la mayoría del mundo entiende, es una de mis favoritas, por la riqueza que posee, onomatopeyas como el japonés, una gran extensión de hablantes regados por el mundo, acentos, países, culturas, religión, e historia. Sé que el navegador, o herramientas como las LLMs podrán traducir el contenido sin problemas, luego habrán más oportunidades para practicar inglés.
