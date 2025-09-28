@@ -6,6 +6,8 @@ time: 2
 ---
 
 # Este es el primer post
+Posted on 2025-09-26, Read time: 2 min
+
 
 Este post esperó casi 4 años a ser escrito.
 
