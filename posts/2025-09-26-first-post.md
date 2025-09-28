@@ -4,7 +4,7 @@ title: My First Blog Post
 date: 2025-09-26
 ---
 
-# Este es mi primer post
+# Este es el primer post
 
 Este post esperó casi 4 años a ser escrito.
 
