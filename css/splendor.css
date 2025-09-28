@@ -223,3 +223,16 @@ a:focus,
 a:active {
   color: #2980b9;
 }
+
+/* Additional configuration */
+.post-meta {
+    font-size: 0.9em;
+    color: #666;
+    margin-top: -15px; /* Adjust spacing as needed */
+    margin-bottom: 20px;
+    font-style: italic;
+}
+
+.post-meta span {
+    margin-right: 15px; /* Add some space between the date and read time */
+}
