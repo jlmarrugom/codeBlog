@@ -8,25 +8,20 @@
     <link rel='stylesheet' href='../css/splendor.css'>
 </head>
 <body>
-    <header>
-        <nav>
-            <a href="/codeBlog">Home</a>
-            </nav>
-    </header>
-
     <main>
         <h1>{{ page.title }}</h1>
         <p class="post-meta">
             <span>{{ page.read_time }} read</span>
             <span>Posted on {{ page.date | date: "%B %-d, %Y" }}</span>
         </p>
+
         <div class="post-content">
             {{ content }}
         </div>
     </main>
 
     <footer>
-        <p>&copy; Jose's CodeBlog</p>
+        <p>&copy; <a href="/codeBlog"> Jose's CodeBlog</a></p>
     </footer>
 </body>
 </html>
