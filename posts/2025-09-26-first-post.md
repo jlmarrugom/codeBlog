@@ -2,7 +2,7 @@
 layout: post
 title: My First Blog Post
 date: 2025-09-26
-time: 2
+read_time: 2 min
 ---
 
 # Este es el primer post
