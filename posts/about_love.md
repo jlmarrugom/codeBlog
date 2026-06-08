@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Opinión Sobre el Amor
+title: Una Guía Sobre el Amor
 date: 2025-09-26
 read_time: 0 min
 ---
@@ -11,13 +11,13 @@ Probablemente pienses que lo sabes todo sobre el amor, bien sea que digas que es
 
 En esta guía trataremos los 4 pasos más importantes para aprender a amar, espero poder cambiar tu perspectiva del amor y que luego de aplicar lo que aprendas aquí tengas las mejores relaciones de tu vida. Los pasos que estaremos tratando son:
 
-Crear un propósito para tu vida.
-Esforzarte por las cosas que te importan.
-Entender al ser humano.
-Salir y amar.
+- Crear un propósito para tu vida.
+- Esforzarte por las cosas que te importan.
+- Entender al ser humano.
+- Salir y amar.
 Esta es una guía que se empieza solo, pero te aseguro que encontrarás compañía en el camino, sin más preámbulos, empecemos.
 
-## 1. Crear un propósito para tu vida:
+## Crear un propósito para tu vida:
 En mi caso fueron 22 años en que pequeñas decisiones del día a día moldearon mi camino, con casi 3 años de introspección por medio de libros, podcasts, vídeos, y salir a conocer, pude notar qué es lo que el mundo necesita. Ahora dedico todas mis energías en enseñar y aplicar lo que he aprendido, de manera que las personas que estén recorriendo este camino puedan subirse a mis hombros para llegar aún más lejos de lo que yo pueda llegar. Aplicar puede ser tan o más importante que enseñar, en la vida te darás cuenta que nadie ha recorrido el mismo camino que tú, por lo que los dones que has ganado a lo largo de ésta son únicos, ninguno de tus aprendices por más dotado que sea tendrá exactamente tus mismas capacidades, así que es tu deber aprovecharlas lo más que puedas.
 
 Este primer paso y también el más difícil es crear un propósito para cada día que te levantes en la mañana, por lo menos uno, ya que pueden ser varios, y me refiero a crear porque amenos que vivas dentro de una película, el propósito es algo que no llegará a ti, es algo que por medio de tus acciones cotidianas vas moldeando.
@@ -26,7 +26,7 @@ Esto puede sonar abrumador, hay infinidad de cosas que nos gustaría hacer y la 
 
 Hacer ejercicio, leer, dibujar, tocar un instrumento, grabar vídeos, escribir, son ejemplos de cosas que pueden ayudarte a fortalecer tu creatividad, esta será una capacidad necesaria para crear cualquier cosa, incluyendo un propósito.
 
-## 2. Esforzarte por las cosas que te importan:
+## Esforzarte por las cosas que te importan:
 Hace 5 años mi mayor meta era graduarme rápido y tener mi doctorado a los 25, no me importaba en qué, solo me gustaba la apariencia de mi nombre con un Ph.D al inicio, si era emitido por una universidad extranjera mucho mejor. Esta visión estuvo conmigo hasta que comencé a interactuar con extranjeros y con personas excepcionales de mi país, los primeros me mostraron que no importa donde naciste, también cometes errores, ves netflix en las noches, y tienes deudas que no sabes cómo pagar. Los segundos me enseñaron que no importa donde naciste, lo único que necesitas para tener éxito son tu dedicación, tu sabiduría, y tus ganas de triunfar.
 
 Con el primer paso seguramente ya tienes pensado algún propósito, hasta ahora solo es un sueño, ya que aún no hemos hecho un plan detallado para poderlo conseguir. En este paso trataremos de convertir ese sueño en metas planeadas y factibles.
@@ -45,7 +45,7 @@ Recomendaciones para consulta:
 - Exurb1a: Escritor de Inglaterra, Youtuber. Existencialista, creativo y poético.
 - Kurzgesagt: Organización principalmente enfocada a la divulgación cientifica en Youtube. Existencialista, pero inspiradora.
 
-## 3. Entender al ser humano:
+## Entender al ser humano:
 La verdad es que hay dos formas de ver a las personas: como mamíferos habitantes de una piedra espacial que gastan su tiempo estudiando y haciendo planes en una existencia sin sentido, ó, como los únicos mamíferos habitantes de una piedra espacial capaces de hacer planes y estudiar a pesar de que la existencia no tenga algún sentido.
 
 Si lo piensas, los seres humanos somos valientes, inteligentes y capaces de lograr cosas increíbles; mira la luna y piensa que alguien muy parecido a tí estuvo caminando sobre ella, piensa que alguien que recogía maletas en un aeropuerto se arriesgó a luchar por su sueño y gracias a él conocemos Queen, piensa que fue hasta esta decada que logramos ver un agujero negro por primera vez, pero un ser humano como tú o yo lo había imaginado muchos años antes, lo había descrito matemáticamente y mostró que estos no existían para siempre. Somos capaces de cosas que ni siquiera podemos imaginar aún, y me encanta pensar que no solo las pensaremos, sino que las haremos.
@@ -58,7 +58,7 @@ Concentrémonos en un escalón, el que tratamos en los dos primeros pasos de est
 
 Entre más arriba se encuentre la necesidad su satisfacción dura mucho más tiempo y es más placentera que las necesidades inferiores, esto nos incentiva a prescindir de necesidades básicas cuando estemos buscando las elevadas, algunos ejemplos son: no dormir para estudiar, no tener sexo meses antes de una pelea, aguantar la respiación para romper un record mundial, dejar la universidad por estar en una banda de rock, o renunciar a un empleo esclavizante pero seguro por crear tu propia empresa. Muchas veces vale la pena el sacrificio, pero debe realizarse a conciencia ya que las necesidades insatisfechas siempre estarán ahí.
 
-## 4. Salir y amar:
+## Salir y amar:
 Personalmente esta parte es la que me ha costado más intentos para hacerla medianamente bien. Hace 2 años estaba seguro de que estaba listo, tenía un “propósito”: Dedicarme a la biofísica, específicamente al estudio del cerebro y prevención del cáncer, publicando así por lo menos 2 artículos antes de graduarme, llegar a ser B2 en Alemán, concursar por una beca en el exterior, y ganar. Noté que era un “propósito” entre comillas cuando el padre de una amiga me preguntó qué quería hacer en un futuro, y al decirlo en voz alta por primera vez, pude convencerlo a él… pero no a mí.
 
 No estaba listo y se veía reflejado en mis relaciones: las romantizaba con cosas que escribía, mostrando claramente mi necesidad de tener a alguien, quería que la persona estuviera detrás de mí para hacerme sentir importante ya que personalmente no me sentía así, y criticaba a quienes salían de rumba y tenían relaciones pasajeras, pero internamente lo deseaba. Aquí fue cuando sin saberlo comencé a seguir esta guía que hoy les comparto: Me interesé menos por el “amor” y más por mis hobbies, aposté fuertemente por desarrollar mis habilidades técnicas en programación incribiendome en cursos y asistiendo a charlas de temas de actualidad, y dediqué muchas horas de actividades sociales y lectura para entender a las personas, para entenderme a mí.
