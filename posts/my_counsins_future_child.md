@@ -1,3 +1,10 @@
+---
+layout: post
+title: About a Child
+date: 2025-09-26
+read_time: 5 min
+---
+
 # About a Child
 
 # My Cousin's Future Child
