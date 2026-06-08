@@ -1,13 +1,11 @@
 ---
 layout: post
-title: About a Child
+title: My Cousin's Future Child 👨‍🍼
 date: 2025-09-26
 read_time: 5 min
 ---
 
-# About a Child
-
-# My Cousin's Future Child
+# 
 
 Recently on March 20th I got to know that a close cousin of mine will be dad. My sister, my other cousins and I were Shocked! He's just 24 years old (1 year older than me). This fact put me in Philosophical mode, now I'm wondering an absurd amount of things, and this Journal entry is kind of a relief to my thoughts.
 
