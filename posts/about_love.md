@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 
+title: Sobre el Amor
 date: 2025-09-26
 read_time: 0 min
 ---
