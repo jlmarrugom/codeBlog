@@ -101,7 +101,7 @@ Por otro lado, si permitimos que los narcotraficantes sigan influyendo desde el 
 Ahora, si queremos solucionar el problema, cómo deberíamos intentarlo, siguiendo el modelo materialista, o el modelo capitalista?
 
 En mi opinión personal, y la que quiero plantear en este artículo, creo que deberíamos acercarnos al modelo comunista Chino, y tratar
-el narcotráfico con un enfoque integral. El enfoque integral debe incluir:
+el narcotráfico con un enfoque integral. El enfoque debe incluir:
 
 - **Una persecución fuerte, y controlada por el estado:** Necesitamos aumentar o mantener los impuestos actuales, aumento de la fuerza pública (empleos estatales) por medio de incentivos, contratación, y servicio militar obligatorio, para todas las clases sociales, sin excepción.
 - **Aumento de la productividad y conectividad del campo:** Repartición de tierras, sustitución de cultivos, priorización de proyectos de infraestructura vial, reactivación de ferrocarriles, y proyectos de comunidades locales usando un banco del pueblo, donde los intereses vayan directamente al estado, y se puedan disminuir paulatinamente los subsidios dados actualmente. Esto permitiría que la desigualdad entre el campo y las ciudades disminuya, empoderando a campesinos y microempresarios con oportunidades reales que premien la innovación y la dedicación. Esto plantea alternativas realistas y atractivas.
