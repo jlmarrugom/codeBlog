@@ -26,8 +26,8 @@ británicas y estadounidenses comienzan altercados en Hong Kong, ganan.
 
 China se ve obligada a comerciar opio, los británicos obligan a China a firmar tratados desiguales,
 se anexionan Hong Kong, y China ve como su gran país pierde soberanía dejando que Ingeleses, 
-Franceses, y Portugueses hagan lo que quieran en su territorio, los chinos impotentes viendo
-sufrir a su gente, los imperios en pleno auge siguiendo lo más importante, el aumento del capital.
+Franceses, y Portugueses hagan lo que quieran en su territorio (traficar opio), los chinos impotentes viendo
+sufrir a su gente (adictos), los imperios en pleno auge siguiendo lo más importante, el aumento del capital.
 
 Esto hasta que llega Mao Zedong(毛泽东), en 1950, se enfocó en acabar con los grandes
 traficantes ejecutandolos, persiguiendo el problema sin miramientos, se forzó la rehabilitación,
