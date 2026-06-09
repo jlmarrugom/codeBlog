@@ -90,27 +90,26 @@ dinero recaudado por medio de la venta de la pasta de Coca.
 
 En gobiernos posteriores hasta los reportes previos a la pandemia, el gobierno de Estados Unidos reportó un incremento de 50.000 Hectarias a 200.000 Hectarias de Coca. Aunque el Gobierno de ese periodo (presidente Duque) asegura que se erradicaron 130.000 Hectarias de Coca, hay reportes que indican que estas cifras pueden estar infladas, y se omite cuanto continuó creciendo el cultivo de Coca en el país.
 
+Para finalizar el analisis histórico, recientemente se estima un incremento en las disputas territoriales de estos grupos narcotraficantes, aprovechando la disposición adoptada por el gobierno con la paz total, no se tienen las cifras exactas, pero los reportes de casos de violencia muestran que sigue la tendencia a la alta de gobiernos anteriores, mostrando que estos grupos armados no cesan de perseguir sus intereses económicos, y las soluciones completamente de guerra o completamente de paz no han funcionado en su erradicación, solo en su mitigación.
+
 Ahora, si queremos solucionar el problema, cómo deberíamos intentarlo, siguiendo el modelo materialista, o el modelo capitalista?
 
 En mi opinión personal, y la que quiero plantear en este articulo, creo que deberíamos acercarnos al modelo comunista Chino, y tratar
 el narcotráfico con un enfoque integral. El enfoque integral debe incluir:
-- Una persecución fuerte, y controlada por el estado: lo cual necesitaría un aumento o mantenimiento de los impuestos actuales, aumento de la fuerza pública (empleos estatales) por medio de incentivos, contratación, o servicio militar obligatorio, y rastreo de movimientos financieros relacionados.
-- Aumento de la productividad y conectividad del campo: Repartición de tierras, sustitución de cultivos, priorización de proyectos de infraestructura vial, reactivación de ferrocarriles, y proyectos de comunidades locales usando un banco del pueblo, donde los intereses vayan directamente al estado, y se puedan disminuir paulatinamente los subsidios comúnmente dados, sin tener en cuenta la productividad. Esto permitiría que la desigualdad entre el campo y las ciudades se disminuya, empoderando a campesinos y microempresarios con oportunidades reales que premien la innovación y la dedicación.
-- Rastreo de movimientos inusuales entre cuentas políticas y empresas: Usando la UIAF para la trazabilidad de movimientos entre cuentas políticas con entes
+- **Una persecución fuerte, y controlada por el estado:** lo cual necesitaría un aumento o mantenimiento de los impuestos actuales, aumento de la fuerza pública (empleos estatales) por medio de incentivos, contratación, y servicio militar obligatorio, para todas las clases sociales, sin excepción.
+- **Aumento de la productividad y conectividad del campo:** Repartición de tierras, sustitución de cultivos, priorización de proyectos de infraestructura vial, reactivación de ferrocarriles, y proyectos de comunidades locales usando un banco del pueblo, donde los intereses vayan directamente al estado, y se puedan disminuir paulatinamente los subsidios comúnmente dados, sin tener en cuenta la productividad. Esto permitiría que la desigualdad entre el campo y las ciudades se disminuya, empoderando a campesinos y microempresarios con oportunidades reales que premien la innovación y la dedicación. Esto plantearia alternativas realistas y atractivas.
+- **Rastreo de movimientos inusuales entre cuentas políticas y empresas:** Usando la UIAF para la trazabilidad de movimientos entre cuentas políticas con entes
 privados se pueden encontrar redes de corrupción, muchas veces operadas con dinero del narcotráfico, destinado para influir en leyes y proyectos que
-beneficien intereses privados. Esto permitiría que el estado pueda abordar los problemas del país sin influencias de capitales sin trazabilidad clara.
+beneficien intereses particulares. Esto permitiría que el estado pueda abordar los problemas del país sin influencias de capitales sin trazabilidad clara.
 
 Opciones que podrían ser contraproducentes:
-- Privatización de la seguridad: Si la seguridad, cárceles, y manejo de las armas queda en manos de entes privados, sean empresas o individuos estos pueden
+- **Privatización de la seguridad:** Si la seguridad, cárceles, y manejo de las armas queda en manos de entes privados, sean empresas o individuos estos pueden
 ser utilizados con fines favorables al narcotráfico. Un narcotraficante podría usar testaferros, o sus propios recursos para financiar y mantener cárceles,
 las cuales quedarían bajo influencia de intereses particulares. Podrían usar igualmente el manejo de las armas al igual que como hicieron los paramilitares
 en el pasado, amparados por la protección del estado, tomarían tierras, desplazarían campesinos y asegurarían su patrimonio mediante grupos organizados
 con la excusa de mantener la estabilidad, pero dañando la a la población vulnerable del país en el camino.
-- Disminución de penas a Narcotraficantes: Si buscamos que los narcotraficantes se entreguen mediante incentivos, como conservar el 10% de los bienes adquiridos,
-y reducción de penas carcelarias, en un inicio podría verse como una buena opción y es dificil ver el problema. Si a un narcotraficante como al Chapo Guzman
-se le permitiera mantener el 10% de su patrimonio en caso de entregarse, quedaría con $1266 Millones de dolares, sumado a que ese dinero podría incluir solo una
-parte y no el total, simplemente estaríamos premiando a los narcos cuando quieran retirarse, legalizando su dinero, e incentivando el camino del narcotráfico
-como medio de enriquecimiento.
+- **Disminución de penas a Narcotraficantes:** Si buscamos que los narcotraficantes se entreguen mediante incentivos, como conservar el 10% de los bienes adquiridos, y reducción de penas carcelarias, en un inicio podría verse como una buena opción y es dificil ver el problema. Si a un narcotraficante como al Chapo Guzman se le permitiera mantener el 10% de su patrimonio en caso de entregarse, quedaría con $1266 Millones de dolares, sumado a que ese dinero podría incluir solo una parte y no el total, simplemente estaríamos premiando a los narcos cuando quieran retirarse, legalizando su dinero, e incentivando el camino del narcotráfico como medio de enriquecimiento.
 
-Como Colombianos buscamos lo que creemos que es mejor para el país, nos llena de orgullo tener tanto talento, cultura, y berraquera. No podemos dejar que intereses extranjeros vengan a imponernos políticas que no nos beneficien realmente, debemos defender nuestra soberanía, buscar aumentar la productividad de nuestro campo, dar oportunidades a las personas, y tratarnos con respeto y aprecio. Aunque tengamos formas variadas de ver los problemas o las soluciones, todos tenemos la misma patria.
+Como Colombianos buscamos lo que creemos que es mejor para el país, nos llena de orgullo tener tanto talento, cultura, y berraquera. No podemos dejar que intereses extranjeros vengan a imponernos políticas que no nos beneficien realmente, debemos defender nuestra soberanía, buscar aumentar la productividad de nuestro campo, dar oportunidades a las personas, y tratarnos con respeto y aprecio. 
+Aunque tengamos formas variadas de ver los problemas o las soluciones, todos tenemos la misma patria.
 
