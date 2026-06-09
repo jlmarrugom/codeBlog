@@ -2,7 +2,7 @@
 layout: post
 title: Una historia del Narcotráfico
 date: 2026-06-08
-read_time: 0 min
+read_time: 8 min
 ---
 _Este articulo es parte de una investigación histórica, puede ser sujeto a aclaraciones posteriores a su publicación, e incluye opiniónes subjetivas cercanas a una ideología que pretende ser materialista._
 
