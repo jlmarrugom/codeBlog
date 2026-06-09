@@ -69,7 +69,7 @@ pero me cuesta pensar que el pais que creó la bomba atómica sea incapaz de aca
 
 Entendiendo el panorama histórico pasemos a analizar mi país, Colombia. Colombia es un sitio afortunado, su posición geopolítica es
 estratégica ya que conecta el Oceano atlántico con el Pacífico, es la entrada y salida de Sur América, tiene una riqueza hídrica sin igual,
-y un problema de Narcotráfico tremendo.
+pero un problema de Narcotráfico tremendo.
 
 Este problema de narcotráfico en Colombia comienza fuertemente en 1980, cuando los grupos armados utilizan el narcotráfico como principal
 medio de financiación, en especial las guerrillas y posteriormente los grupos paramilitares. Se implementó la política de extradición de 
