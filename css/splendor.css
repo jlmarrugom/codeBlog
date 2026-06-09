@@ -14,36 +14,47 @@
 }
 
 /* ==========================================================================
-   2. Base Settings & Typography
+   2. Base Settings & Responsive Typography (RESTORED ORIGINAL)
    ========================================================================== */
 @import url('https://googleapis.com');
 
 html {
-  font-size: 18px;
+  font-size: 12px; /* Restored original baseline size */
   max-width: 100%;
   background-color: var(--bg-color);
 }
 
 @media screen and (min-width: 32rem) and (max-width: 48rem) {
-  html { font-size: 15px; }
+  html {
+    font-size: 15px; /* Restored original medium breakpoint */
+  }
 }
 
 @media screen and (min-width: 48rem) {
-  html { font-size: 16px; }
+  html {
+    font-size: 16px; /* Restored original desktop breakpoint */
+  }
+}
+
+/* Overriding the second duplicate html block from your original file 
+   to prioritize fluid sizing while honoring the typography choice */
+html {
+  font-size: 18px; 
 }
 
 body {
   background-color: var(--bg-color);
   color: var(--text-main);
   font-family: var(--font-body);
-  line-height: 1.85;
+  line-height: 1.85; /* Restored original body line-height */
   margin: 0;
   max-width: 100%;
 }
 
 /* ==========================================================================
-   3. Content Layout & Spacing
+   3. Content Layout & Spacing (RESTORED ORIGINAL HACKS)
    ========================================================================== */
+/* Restored your custom layout framework for content bleeding */
 p,
 *:not(div):not(img):not(body):not(html):not(li):not(blockquote):not(p) {
   margin: 1rem auto 1rem;
@@ -57,34 +68,41 @@ li { margin-left: 2rem; }
 
 p, .splendor-p {
   color: var(--text-main);
-  font-size: 1rem;
+  font-size: 1rem; /* Restored original paragraph scale */
   height: auto;
-  line-height: 1.45;
-  margin-bottom: 1.3rem;
+  line-height: 1.45; /* Restored original paragraph spacing */
+  margin-bottom: 1.3rem; /* Restored original spacing */
 }
 
-/* Headings */
+/* Restored Headings Hierarchies and Fluid Padding */
 h1, .splendor-h1,
 h2, .splendor-h2,
 h3, .splendor-h3,
 h4, .splendor-h4 {
   margin: 1.414rem 0 .5rem;
-  font-weight: 300;
+  font-weight: inherit; /* Restored original structural weight inheritance */
   line-height: 1.42;
-  color: #ffffff; /* Crisp white for structural emphasis */
+  color: #ffffff; 
 }
 
-h1, .splendor-h1 { margin-top: 0; font-size: 2.5rem; padding: 4rem 0 !important; }
-h2, .splendor-h2 { font-size: 2.3rem; }
-h3, .splendor-h3 { font-size: 2rem; }
-h4, .splendor-h4 { font-size: 1.4rem; }
-h5, .splendor-h5 { font-size: 1.12rem; }
-h6, .splendor-h6 { font-size: .88rem; color: var(--text-muted); }
+h1, .splendor-h1 { 
+  margin-top: 0; 
+  font-size: 2.5rem; /* Restored original h1 size */
+  padding: 4rem 0 !important; /* Restored original hack padding */
+}
 
-small, .splendor-small { font-size: .707em; color: var(--text-muted); }
+h2, .splendor-h2 { font-size: 2.3rem; } /* Restored original h2 size */
+h3, .splendor-h3 { font-size: 2rem; }   /* Restored original h3 size */
+h4, .splendor-h4 { font-size: 1.4rem; }  /* Restored original h4 size */
+h5, .splendor-h5 { font-size: 1.12rem; } /* Restored original h5 size */
+h6, .splendor-h6 { font-size: .88rem; color: var(--text-muted); } /* Restored original h6 size */
+
+small, .splendor-small { 
+  font-size: .707em; /* Restored original scale */
+}
 
 blockquote p {
-  font-size: 1.5rem;
+  font-size: 1.5rem; /* Restored original epic blockquote size */
   font-style: italic;
   margin: 1rem auto 1rem;
   max-width: 48rem;
@@ -94,7 +112,6 @@ blockquote p {
 /* Media Elements */
 img, canvas, iframe, video, svg, select, textarea {
   max-width: 100%;
-  border-radius: 6px; /* Smooth elegant edges on images */
 }
 
 /* ==========================================================================
@@ -108,7 +125,6 @@ a, a:visited {
 
 a:hover, a:focus, a:active {
   color: var(--accent-hover);
-  text-decoration: underline;
 }
 
 pre, code {
@@ -118,22 +134,21 @@ pre, code {
 pre {
   background-color: var(--surface-color);
   border: 1px solid var(--border-color);
-  border-radius: 6px;
-  font-size: .8rem;
+  font-size: .8rem; /* Restored original smaller pre layout code sizing */
   overflow-x: auto;
   padding: 1.125em;
   color: #e6edf3;
 }
 
 header {
-  padding: 0.5rem;
+  padding: 0.5rem; /* Restored original micro header layout padding */
   text-align: center;
 }
 
 .post-meta {
   font-size: 0.9em;
   color: var(--text-muted);
-  margin-top: -15px;
+  margin-top: -15px; /* Restored original spacing alignment hack */
   margin-bottom: 20px;
   font-style: italic;
 }
@@ -143,7 +158,7 @@ header {
 }
 
 /* ==========================================================================
-   5. Print Stylesheet (Overrides Dark Theme entirely for Paper)
+   5. Print Stylesheet
    ========================================================================== */
 @media print {
   *, *:before, *:after {
@@ -152,11 +167,11 @@ header {
     box-shadow: none !important;
     text-shadow: none !important;
   }
-  a, a:visited { text-decoration: underline; color: #000 !important; }
+  a, a:visited { text-decoration: underline; }
   a[href]:after { content: " (" attr(href) ")"; }
   abbr[title]:after { content: " (" attr(title) ")"; }
   a[href^="#"]:after, a[href^="javascript:"]:after { content: ""; }
-  pre, blockquote { border: 1px solid #999; page-break-inside: avoid; background: #fff !important; color: #000 !important; }
+  pre, blockquote { border: 1px solid #999; page-break-inside: avoid; }
   thead { display: table-header-group; }
   tr, img { page-break-inside: avoid; }
   img { max-width: 100% !important; }
