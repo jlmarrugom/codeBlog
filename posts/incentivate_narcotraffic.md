@@ -89,11 +89,19 @@ Ahora, si queremos solucionar el problema, cómo deberíamos intentarlo, siguien
 
 En mi opinión personal, y la que quiero plantear en este articulo, creo que deberíamos acercarnos al modelo comunista Chino, y tratar
 el narcotráfico con un enfoque integral. El enfoque integral debe incluir:
-- Una persecución fuerte, y controlada por el estado: lo cual necesitaría un aumento o mantenimiento de los impuestos actuales, aumento de la fuerza pública (empleos estatales) por medio de incentivos, contratación, o servicio militar obligatorio, 
+- Una persecución fuerte, y controlada por el estado: lo cual necesitaría un aumento o mantenimiento de los impuestos actuales, aumento de la fuerza pública (empleos estatales) por medio de incentivos, contratación, o servicio militar obligatorio, y rastreo de movimientos financieros relacionados.
+- Aumento de la productividad y conectividad del campo: Repartición de tierras, priorización de proyectos de infraestructura vial, reactivación de ferrocarriles, y proyectos de comunidades locales usando un banco del pueblo, donde los intereses vayan directamente al estado, y se puedan disminuir paulatinamente los subsidios comúnmente dados, sin tener en cuenta la productividad. Esto permitiría que la desigualdad entre el campo y las ciudades se disminuya, empoderando a campesinos y microempresarios con oportunidades reales que premien la innovación y la dedicación.
 
-
-
-
-
+Opciones que podrían ser contraproducentes:
+- Privatización de la seguridad: Si la seguridad, cárceles, y manejo de las armas queda en manos de entes privados, sean empresas o individuos estos pueden
+ser utilizados con fines favorables al narcotráfico. Un narcotraficante podría usar testaferros, o sus propios recursos para financiar y mantener cárceles,
+las cuales quedarían bajo influencia de intereses particulares. Podrían usar igualmente el manejo de las armas al igual que como hicieron los paramilitares
+en el pasado, amparados por la protección del estado, tomarían tierras, desplazarían campesinos y asegurarían su patrimonio mediante grupos organizados
+con la excusa de mantener la estabilidad, pero dañando la a la población vulnerable del país en el camino.
+- Disminución de penas a Narcotraficantes: Si buscamos que los narcotraficantes se entreguen mediante incentivos, como conservar el 10% de los bienes adquiridos,
+y reducción de penas carcelarias, en un inicio podría verse como una buena opción y es dificil ver el problema. Si a un narcotraficante como al Chapo Guzman
+se le permitiera mantener el 10% de su patrimonio en caso de entregarse, quedaría con $1266 Millones de dolares, sumado a que ese dinero podría incluir solo una
+parte y no el total, simplemente estaríamos premiando a los narcos cuando quieran retirarse, legalizando su dinero, e incentivando el camino del narcotráfico
+como medio de enriquecimiento.
 
 
