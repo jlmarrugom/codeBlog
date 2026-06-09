@@ -22,15 +22,15 @@ Independently of your answers, in the future, Won't you be happy with what you c
 
 What is life? Life is just a moment in the cosmos, a tiny fraction of a fraction on the universe calendar. It's common to think that we should make this moment worthy of living it, and is true, we should make every second count, and maybe living a "normal" life isn't just enough. But, What are the alternatives? Well, you can choose to: 
 
-### Dedicate exclusively to your passion:
+### Dedicate exclusively to your passion
 
 Leaving everything else aside, you will go up the hill of mastery of your craft, you will focus on being the greatest programmer, the greatest artist, the greatest Esports player, the greatest standard in the discipline you choose. This way of living can be either lonely or full of friends depending on your approach, I recommend the full of friends path because loneliness could be painful sometimes, but, if you are choosing this way, you are probably an outlier, you could replace your social network with a deeper mastery of your work, this way you will achieve Superhuman highness and probably the work you'll end up doing will be as awesome as the biggest in history, you'll be remember at least a hundred years more than the rest of us.
 
-### Help others:
+### Help others
 
 Dedicate your time and energy to a greater cause, to solve one or some of the biggest problems of humanity, in this case *injustice*. People sometimes (a lot) born with less opportunities, with less chances to succeed, with no resources to study, eat, drink water or have a loving family. If you choose to live this way, you will help humankind to succeed in life, and make life more enjoyable to the people that live now. You could inspire others to do the same thing as you, and you'll be fighting every day for a cause, and a purpose.
 
-### Live the present as its fullest:
+### Live the present as its fullest
 
 Travel, party, fall in love, quit when it isn't working, travel a lot more, meet new people, party a lot more, watch movies, make your own, try some funny stuff (you know what I mean) and enjoy it all, life will pass in a bit, and as you get older you can start to accumulate a lot of regrets. This way you'll have no regrets. 
 
