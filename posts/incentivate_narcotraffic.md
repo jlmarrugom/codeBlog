@@ -19,7 +19,7 @@ productos como el té, la seda, y la porcelana eran altamente demandados, pero l
 británicas no eran apetecidas en China, por lo que Reino Unido debía pagar con plata causando una
 salida considerable de este metal.
 
-Los Ingleses comienzan a exportar ilegalmente opio a China desde el siglo xviii para contrarrestar ese
+Los Ingleses comienzan a exportar ilegalmente opio a China desde el siglo XVIII para contrarrestar ese
 déficit, al ser una sustancia tan adictiva, su comercio creció rápidamente y el desbalance entre la plata
 que salía y entraba a Reino Unido comenzó a reducirse.
 
