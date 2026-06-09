@@ -8,7 +8,7 @@ read_time: 0 min
 >El narcotráfico es el comercio ilegal de drogas tóxicas a gran escala, que abarca desde la producción y el cultivo hasta el transporte, la distribución y la venta final. Esta actividad ilícita mueve economías multimillonarias y está estrechamente vinculada a redes de crimen organizado.
 
 En 1839 comenzó algo incoherente para muchos, pero esperado para los que conocen la historia del "libre mercado", los británicos comienzan una guerra con China, la primera guerra del Opio.
-El opio es una sustancia narcótica muy adictiva obtenida del látex de la amapola, los Mongoles se la vendían a los chinos a pequeña escala hasta que la compañia Británica de las Indias Orientales monopopilizó el comercio.
+El opio es una sustancia narcótica muy adictiva obtenida del látex de la amapola, los Mongoles se la vendían a los chinos a pequeña escala hasta que la compañia Británica de las Indias Orientales monopolizó el comercio.
 Esto permitió compensar el enorme déficit comercial de los británicos con China, ya que en Reino Unido de
 productos como el té, la seda, y la porcelana eran altamente demandados, pero las mercancías
 británicas no eran apetecidas en China, por lo que Reino Unido debía pagar con plata causando una
