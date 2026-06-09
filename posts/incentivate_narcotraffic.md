@@ -96,6 +96,8 @@ En gobiernos posteriores hasta los reportes previos a la pandemia, el gobierno d
 
 Para finalizar el análisis histórico, recientemente se estima un incremento en las disputas territoriales de estos grupos narcotraficantes, aprovechando la disposición adoptada por el gobierno con la paz total, no se tienen las cifras exactas, pero los reportes de casos de violencia muestran que sigue la tendencia a la alta de gobiernos anteriores, mostrando que estos grupos armados no cesan de perseguir sus intereses económicos, y las soluciones completamente de guerra o completamente de paz no han funcionado en su erradicación, solo en su mitigación.
 
+Entonces, es necesario buscar las negociaciones desde una posición de superioridad militar y económica, querer negociar desde una posición de inferioridad no es una negociación, es una plegaria. Por otro lado, si permitimos que los narcotraficantes sigan influyendo desde el gobierno, por medio de su dinero, que es abundante, podríamos volver al inicio del problema, enfocándonos en atacar a los agricultores y pequeños actores del problema, mientras los capitalistas del narcotráfico dictan las políticas nacionales, y viven cómodamente camuflados entre los “empresarios exitosos” del país.
+
 ### Análisis de soluciones
 
 Ahora, si queremos solucionar el problema, cómo deberíamos intentarlo, siguiendo el modelo materialista, o el modelo capitalista?
@@ -116,7 +118,8 @@ en el pasado, amparados por la protección del estado, tomarían tierras, despla
 con la excusa de mantener la estabilidad, pero dañando a la población vulnerable del país en el camino.
 - **Disminución de penas a Narcotraficantes:** Si buscamos que los narcotraficantes se entreguen mediante incentivos, como conservar el 10% de los bienes adquiridos, y reducción de penas carcelarias, en un inicio podría verse como una buena opción y es difícil ver el problema. Si a un narcotraficante como al Chapo Guzman se le permitiera mantener el 10% de su patrimonio en caso de entregarse, quedaría con $1266 Millones de dólares, sumado a que ese dinero podría incluir solo una parte y no el total, simplemente estaríamos premiando a los narcos cuando quieran retirarse, legalizando su dinero, e incentivando el camino del narcotráfico como medio de enriquecimiento.
 
-Como Colombianos buscamos lo que creemos que es mejor para el país, nos llena de orgullo tener tanto talento, cultura, y berraquera. No podemos dejar que intereses extranjeros vengan a imponer políticas que no nos beneficien realmente, debemos defender nuestra soberanía, buscar aumentar la productividad de nuestro campo, dar oportunidades a las personas, y tratarnos con respeto y aprecio. 
-Aunque tengamos formas variadas de ver los problemas o las soluciones, todos tenemos la misma patria.
+Las soluciones que considero que debemos incluir son las orientadas en fortalecer a las principales víctimas del narcotráfico, campesinos y poblaciones vulnerables que por esas mismas condiciones son presionados o no tienen alternativa, dándoles opciones, y enfocando esfuerzos en las partes más altas de la cadena, las cuales articulan todo el problema desde posiciones de privilegio.
 
+Como Colombianos buscamos lo que creemos que es mejor para el país, nos llena de orgullo tener tanto talento, cultura, y berraquera. No podemos dejar que intereses extranjeros vengan a imponer políticas que no nos beneficien realmente, debemos defender nuestra soberanía, buscar aumentar la productividad de nuestro campo, dar oportunidades a las personas, y tratarnos con respeto y aprecio.
 
+Escuchemos formas variadas de resolver los problemas, y establezcamos un diálogo conjunto, por el bien de todos, por el bien de nuestro país.
