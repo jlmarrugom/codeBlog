@@ -4,8 +4,11 @@ title: Una historia del Narcotráfico
 date: 2026-06-08
 read_time: 0 min
 ---
+_Este articulo es parte de una investigación histórica, puede ser sujeto a aclaraciones posteriores a su publicación, e incluye opiniónes subjetivas cercanas a una ideología que pretende ser materialista._
 
->El narcotráfico es el comercio ilegal de drogas tóxicas a gran escala, que abarca desde la producción y el cultivo hasta el transporte, la distribución y la venta final. Esta actividad ilícita mueve economías multimillonarias y está estrechamente vinculada a redes de crimen organizado.
+
+
+>El narcotráfico es el comercio ilegal de drogas tóxicas a gran escala, que abarca desde la producción y el cultivo hasta el transporte, la distribución y la venta final. Esta actividad ilícita mueve economías multimillonarias y está estrechamente vinculada a redes de crimen organizado que pueden incluir empresas y estados.
 
 En 1839 comenzó algo incoherente para muchos, pero esperado para los que conocen la historia del "libre mercado". Los británicos comienzan una guerra con China, la primera guerra del Opio.
 El opio es una sustancia narcótica muy adictiva obtenida del látex de la amapola, los Mongoles se la vendían a los chinos a pequeña escala hasta que la compañia Británica de las Indias Orientales monopolizó el comercio.
@@ -107,4 +110,5 @@ se le permitiera mantener el 10% de su patrimonio en caso de entregarse, quedar�
 parte y no el total, simplemente estaríamos premiando a los narcos cuando quieran retirarse, legalizando su dinero, e incentivando el camino del narcotráfico
 como medio de enriquecimiento.
 
-Como Colombianos buscamos lo que creemos que es mejor para el país, nos llena de orgullo tener tanto talento, cultura, y berraquera
+Como Colombianos buscamos lo que creemos que es mejor para el país, nos llena de orgullo tener tanto talento, cultura, y berraquera. No podemos dejar que intereses extranjeros vengan a imponernos políticas que no nos beneficien realmente, debemos defender nuestra soberanía, buscar aumentar la rpoductividad de nuestro campo, dar oportunidades a las persoans, y tratarnos con respeto y aprecio, ya que aunque podamos tener formas variadas de ver los problemas o las soluciones, todos tenemos la misma patria.
+
