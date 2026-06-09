@@ -47,7 +47,7 @@ No
 
 El beneficio de los más ricos iría en contra del beneficio del pueblo, favoreciendo a narcotraficantes, y
 empresarios internacionales, ya que son los individuos con las mayores riquezas del mundo, como vimos en la historia,
-eran los ingleses y franceses (potencias extranjeras) los principales traficantes. [Guerras del Opio, wikipedia](https://es.wikipedia.org/wiki/Guerras_del_Opio)
+eran los ingleses y franceses (potencias extranjeras) los principales traficantes. (Referencia: [Guerras del Opio, Wikipedia](https://es.wikipedia.org/wiki/Guerras_del_Opio))
 
 ### Actualidad en Occidente
 
@@ -61,7 +61,7 @@ China en los tiempos de Mao, es uno de los países más avanzados y con el presu
 Una posible explicación podría ser que realmente el gobierno de EEUU no busca el bienestar del pueblo estadounidense, más bien,
 busca el bienestar de los grandes capitales, empresas de armas, tabaco, licor, bancos, inversores, los grandes capitalistas,
 quienes realmente dictan las políticas en EEUU, ponen y quitan presidentes, y se benefician con guerras, contra dictaduras,
-grupos extremistas, o contra las drogas. [Guerra contra las drogas](https://es.wikipedia.org/wiki/Guerra_contra_las_drogas)
+grupos extremistas, o contra las drogas. (Referencia: [Guerra contra las drogas, Wikipedia](https://es.wikipedia.org/wiki/Guerra_contra_las_drogas))
 
 Otra posible explicación sería que la guerra contra las drogas le quedó grande, y realmente son incapaces de competir contra el narcotráfico,
 pero me cuesta pensar que el país que creó la bomba atómica sea incapaz de acabar con un problema ya solucionado en China.
@@ -92,7 +92,7 @@ Algunos paramilitares llegaron a formar parte del gobierno, pero luego fueron ju
 En el periodo de 2005 a 2008 se fundó la pirámide DMG, enfocada en el lavado de activos, un intento de legalización del 
 dinero recaudado por medio de la venta de la pasta de Coca.
 
-En gobiernos posteriores hasta los reportes previos a la pandemia, el gobierno de Estados Unidos reportó un incremento de 50.000 Hectáreas a 200.000 Hectáreas de Coca. Aunque el Gobierno de ese periodo (presidente Duque) asegura que se erradicaron 130.000 Hectáreas de Coca, hay reportes que indican que estas cifras pueden estar infladas, y se omite cuanto continuó creciendo el cultivo de Coca en el país. [Narcotráfico en Colombia](https://es.wikipedia.org/wiki/Narcotr%C3%A1fico_en_Colombia)
+En gobiernos posteriores hasta los reportes previos a la pandemia, el gobierno de Estados Unidos reportó un incremento de 50.000 Hectáreas a 200.000 Hectáreas de Coca. Aunque el Gobierno de ese periodo (presidente Duque) asegura que se erradicaron 130.000 Hectáreas de Coca, hay reportes que indican que estas cifras pueden estar infladas, y se omite cuanto continuó creciendo el cultivo de Coca en el país. (Referencia: [Narcotráfico en Colombia, Wikipedia](https://es.wikipedia.org/wiki/Narcotr%C3%A1fico_en_Colombia)
 
 Para finalizar el análisis histórico, recientemente se estima un incremento en las disputas territoriales de estos grupos narcotraficantes, aprovechando la disposición adoptada por el gobierno con la paz total, no se tienen las cifras exactas, pero los reportes de casos de violencia muestran que sigue la tendencia a la alta de gobiernos anteriores, mostrando que estos grupos armados no cesan de perseguir sus intereses económicos, y las soluciones completamente de guerra o completamente de paz no han funcionado en su erradicación, solo en su mitigación.
 
