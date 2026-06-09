@@ -7,9 +7,9 @@ read_time: 0 min
 
 >El narcotráfico es el comercio ilegal de drogas tóxicas a gran escala, que abarca desde la producción y el cultivo hasta el transporte, la distribución y la venta final. Esta actividad ilícita mueve economías multimillonarias y está estrechamente vinculada a redes de crimen organizado.
 
-En 1839 comenzó algo incoherente para muchos, pero esperado para los que conocen la historia del "libre mercado", los británicos comienzan una guerra con China, la primera guerra del Opio.
+En 1839 comenzó algo incoherente para muchos, pero esperado para los que conocen la historia del "libre mercado". Los británicos comienzan una guerra con China, la primera guerra del Opio.
 El opio es una sustancia narcótica muy adictiva obtenida del látex de la amapola, los Mongoles se la vendían a los chinos a pequeña escala hasta que la compañia Británica de las Indias Orientales monopolizó el comercio.
-Esto permitió compensar el enorme déficit comercial de los británicos con China, ya que en Reino Unido de
+Esto permitió compensar el enorme déficit comercial de los británicos con China, ya que en Reino Unido los
 productos como el té, la seda, y la porcelana eran altamente demandados, pero las mercancías
 británicas no eran apetecidas en China, por lo que Reino Unido debía pagar con plata causando una
 salida considerable de este metal.
@@ -52,12 +52,15 @@ mostrandolas abiertamente en las películas sobre Wall Street, Las Vegas, y fies
 
 Entonces, si EEUU dice querer acabar con las drogas, por qué no lo hace, si es una potencia mucho mayor que lo que fue
 China en los tiempos de Mao, es uno de los paises más avanzados y con el presupuesto de seguridad más alto del mundo?
-Una de las razones podría ser que realmente el gobierno de EEUU no busca el bienestar del pueblo estadounidense, más bien,
+Una posible explicación podría ser que realmente el gobierno de EEUU no busca el bienestar del pueblo estadounidense, más bien,
 busca el bienestar de los grandes capitales, empresas de armas, tabaco, licor, bancos, inversores, los grandes capitalistas,
 quienes realmente dictan las políticas en EEUU, ponen y quitan presidentes, y se benefician con guerras, contra dictaduras,
 grupos extremistas, o contra las drogas. [Guerra contra las drogas](https://es.wikipedia.org/wiki/Guerra_contra_las_drogas)
 
->La represión moderada produce una caída en los suministros y eso aumenta el precio, estimulando la producción en el mundo entero.
+Otra posible explicación sería que la guerra contra las drogas le quedó grande, y realmente son incapaces de competir contra el narcotráfico,
+pero me cuesta pensar que el pais que creó la bomba atómica sea incapaz de acabar con un problema ya solucionado en China.
+
+>La represión produce una caída en los suministros y eso aumenta el precio, estimulando la producción en el mundo entero.
 >
 >_Alfred McCoy, Historiador estadounidense._
 
@@ -81,6 +84,12 @@ Algunos paramilitares llegaron a formar parte del gobierno, pero luego fueron ju
 
 Para finalizar, en el periodo de 2005 a 2008 se fundó la piramide DMG, enfocada en el lavado de activos, un intento de legalización del 
 dinero recaudado por medio de la venta de la pasta de Coca.
+
+Ahora, si queremos solucionar el problema, cómo deberíamos intentarlo, siguiendo el modelo comunista Chino, o el modelo capitalista Americano?
+
+En mi opinión personal, y la que quiero plantear en este articulo, creo que deberíamos acercarnos al modelo comunista Chino, y tratar
+el narcotráfico con un enfoque integral. El enfoque integral debe incluir:
+- Una persecución fuerte, y controlada por el estado: lo cual necesitaría un aumento o mantenimiento de los impuestos actuales, aumento de la fuerza pública (empleos estatales) por medio de incentivos, contratación, o servicio militar obligatorio, 
 
 
 
