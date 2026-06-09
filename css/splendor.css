@@ -178,3 +178,22 @@ header {
   p, h2, h3 { orphans: 3; widows: 3; }
   h2, h3 { page-break-after: avoid; }
 }
+/* ==========================================================================
+   6. Footer Layout Adjustments
+   ========================================================================== */
+footer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  
+  /* Matches the central layout of your main body content */
+  max-width: 36rem; 
+  margin: 2rem auto;
+  padding: 0 0.25rem;
+}
+
+/* Overriding the global 'margin: 1rem auto' that forces centering */
+footer p {
+  margin: 0; 
+  max-width: none;
+}
