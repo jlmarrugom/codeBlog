@@ -92,7 +92,9 @@ En estudios previos a la pandemia, el gobierno de Estados Unidos reportó un inc
 
 Para finalizar el análisis histórico, recientemente se estima un incremento en las disputas territoriales de estos grupos narcotraficantes, aprovechando la disposición adoptada por el gobierno con la paz total. No se tienen las cifras exactas, pero los reportes de casos de violencia muestran que sigue la tendencia a la alta de gobiernos anteriores, mostrando que estos grupos armados no cesan de perseguir sus intereses económicos, y las soluciones completamente de guerra o completamente de paz no han funcionado en su erradicación, solo en su mitigación.
 
-Entonces, es necesario buscar las negociaciones desde una posición de superioridad militar y económica, querer negociar desde una posición de inferioridad no es una negociación, es una plegaria. Por otro lado, si permitimos que los narcotraficantes sigan influyendo desde el gobierno, por medio de su dinero, que es abundante, podríamos volver al inicio del problema, enfocándonos en atacar a los agricultores y pequeños actores del problema, mientras los capitalistas del narcotráfico dictan las políticas nacionales, y viven cómodamente camuflados entre los “empresarios exitosos” del país.
+Entonces, es necesario buscar las negociaciones desde una posición de superioridad militar y económica, querer negociar desde una posición de inferioridad no es una negociación, es una plegaria.
+
+Por otro lado, si permitimos que los narcotraficantes sigan influyendo desde el gobierno, por medio de su dinero, que es abundante, podríamos volver al inicio del problema: enfocarse en atacar a los agricultores y pequeños distribuidores, mientras los capitalistas del narcotráfico dictan las políticas nacionales, y viven cómodamente camuflados entre los “empresarios exitosos” del país.
 
 ### Análisis de soluciones
 
