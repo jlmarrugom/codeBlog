@@ -85,15 +85,17 @@ y poder acaparar sus tierras por individuos complices o beneficiados de la supre
 
 Algunos paramilitares llegaron a formar parte del gobierno, pero luego fueron judicializados por parapolítica, lavado de activos, corrupción.
 
-Para finalizar, en el periodo de 2005 a 2008 se fundó la piramide DMG, enfocada en el lavado de activos, un intento de legalización del 
+En el periodo de 2005 a 2008 se fundó la piramide DMG, enfocada en el lavado de activos, un intento de legalización del 
 dinero recaudado por medio de la venta de la pasta de Coca.
+
+En gobiernos posteriores hasta los reportes previos a la pandemia, el gobierno de Estados Unidos reportó un incremento de 50.000 Hectarias a 200.000 Hectarias de Coca. Aunque el Gobierno de ese periodo (presidente Duque) asegura que se erradicaron 130.000 Hectarias de Coca, sin embargo, hay reportes que indican que estas cifras pueden estar infladas, y se omite cuanto continuó creciendo el cultivo de Coca en el país.
 
 Ahora, si queremos solucionar el problema, cómo deberíamos intentarlo, siguiendo el modelo comunista Chino, o el modelo capitalista Americano?
 
 En mi opinión personal, y la que quiero plantear en este articulo, creo que deberíamos acercarnos al modelo comunista Chino, y tratar
 el narcotráfico con un enfoque integral. El enfoque integral debe incluir:
 - Una persecución fuerte, y controlada por el estado: lo cual necesitaría un aumento o mantenimiento de los impuestos actuales, aumento de la fuerza pública (empleos estatales) por medio de incentivos, contratación, o servicio militar obligatorio, y rastreo de movimientos financieros relacionados.
-- Aumento de la productividad y conectividad del campo: Repartición de tierras, priorización de proyectos de infraestructura vial, reactivación de ferrocarriles, y proyectos de comunidades locales usando un banco del pueblo, donde los intereses vayan directamente al estado, y se puedan disminuir paulatinamente los subsidios comúnmente dados, sin tener en cuenta la productividad. Esto permitiría que la desigualdad entre el campo y las ciudades se disminuya, empoderando a campesinos y microempresarios con oportunidades reales que premien la innovación y la dedicación.
+- Aumento de la productividad y conectividad del campo: Repartición de tierras, sustitución de cultivos, priorización de proyectos de infraestructura vial, reactivación de ferrocarriles, y proyectos de comunidades locales usando un banco del pueblo, donde los intereses vayan directamente al estado, y se puedan disminuir paulatinamente los subsidios comúnmente dados, sin tener en cuenta la productividad. Esto permitiría que la desigualdad entre el campo y las ciudades se disminuya, empoderando a campesinos y microempresarios con oportunidades reales que premien la innovación y la dedicación.
 - Rastreo de movimientos inusuales entre cuentas políticas y empresas: Usando la UIAF para la trazabilidad de movimientos entre cuentas políticas con entes
 privados se pueden encontrar redes de corrupción, muchas veces operadas con dinero del narcotráfico, destinado para influir en leyes y proyectos que
 beneficien intereses privados. Esto permitiría que el estado pueda abordar los problemas del país sin influencias de capitales sin trazabilidad clara.
@@ -110,5 +112,5 @@ se le permitiera mantener el 10% de su patrimonio en caso de entregarse, quedar�
 parte y no el total, simplemente estaríamos premiando a los narcos cuando quieran retirarse, legalizando su dinero, e incentivando el camino del narcotráfico
 como medio de enriquecimiento.
 
-Como Colombianos buscamos lo que creemos que es mejor para el país, nos llena de orgullo tener tanto talento, cultura, y berraquera. No podemos dejar que intereses extranjeros vengan a imponernos políticas que no nos beneficien realmente, debemos defender nuestra soberanía, buscar aumentar la rpoductividad de nuestro campo, dar oportunidades a las persoans, y tratarnos con respeto y aprecio, ya que aunque podamos tener formas variadas de ver los problemas o las soluciones, todos tenemos la misma patria.
+Como Colombianos buscamos lo que creemos que es mejor para el país, nos llena de orgullo tener tanto talento, cultura, y berraquera. No podemos dejar que intereses extranjeros vengan a imponernos políticas que no nos beneficien realmente, debemos defender nuestra soberanía, buscar aumentar la productividad de nuestro campo, dar oportunidades a las personas, y tratarnos con respeto y aprecio. Aunque tengamos formas variadas de ver los problemas o las soluciones, todos tenemos la misma patria.
 
