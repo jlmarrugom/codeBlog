@@ -22,14 +22,12 @@ salida considerable de este metal.
 Para contrarrestar ese déficit, los Ingleses comienzan a exportar ilegalmente opio a China desde el siglo XVIII. Al ser el Opio una sustancia tan adictiva, su comercio creció rápidamente y el desbalance entre la plata que salía y entraba a Reino Unido comenzó a reducirse.
 
 El emperador Daoguang(道光) prohibió la venta y el consumo de opio en 1829 debido a la gran cantidad de adictos.
-Los británicos no podían perder esa forma de equilibrar el comercio con China, en 1839 comienzan
-la primera guerra debido a constantes incautaciones de opio, Inglaterra acusa a China de destruir 
-mercancías británicas, y para imponer el tráfico del opio, se bloquea comercialmente a China, y embarcaciones
-británicas y estadounidenses comienzan altercados en Hong Kong, ganan.
+Los británicos no podían perder esa forma de equilibrar el comercio con China, y debido a constantes incautaciones de opio, en 1839 comienzan
+la primera guerra. Inglaterra acusa a China de destruir mercancías británicas, y para imponer el tráfico del opio, se bloquea comercialmente a China, y embarcaciones británicas y estadounidenses comienzan altercados en Hong Kong, ganan.
 
 China se ve obligada a comerciar opio, los británicos obligan a China a firmar tratados desiguales,
 se anexionan Hong Kong, y China ve como su gran país pierde soberanía dejando que Ingleses, 
-Franceses, y Portugueses hagan lo que quieran en su territorio (traficar opio), los chinos impotentes viendo
+Franceses, y Portugueses hagan lo que quieran en su territorio (traficar opio). Los chinos impotentes viendo
 sufrir a su gente (adictos), los imperios en pleno auge siguiendo lo más importante, el aumento del capital.
 
 Esto hasta que llega Mao Zedong(毛泽东), en 1950, se enfocó en acabar con los grandes
