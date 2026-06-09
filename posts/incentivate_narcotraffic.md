@@ -91,6 +91,9 @@ En mi opinión personal, y la que quiero plantear en este articulo, creo que deb
 el narcotráfico con un enfoque integral. El enfoque integral debe incluir:
 - Una persecución fuerte, y controlada por el estado: lo cual necesitaría un aumento o mantenimiento de los impuestos actuales, aumento de la fuerza pública (empleos estatales) por medio de incentivos, contratación, o servicio militar obligatorio, y rastreo de movimientos financieros relacionados.
 - Aumento de la productividad y conectividad del campo: Repartición de tierras, priorización de proyectos de infraestructura vial, reactivación de ferrocarriles, y proyectos de comunidades locales usando un banco del pueblo, donde los intereses vayan directamente al estado, y se puedan disminuir paulatinamente los subsidios comúnmente dados, sin tener en cuenta la productividad. Esto permitiría que la desigualdad entre el campo y las ciudades se disminuya, empoderando a campesinos y microempresarios con oportunidades reales que premien la innovación y la dedicación.
+- Rastreo de movimientos inusuales entre cuentas políticas y empresas: Usando la UIAF para la trazabilidad de movimientos entre cuentas políticas con entes
+privados se pueden encontrar redes de corrupción, muchas veces operadas con dinero del narcotráfico, destinado para influir en leyes y proyectos que
+beneficien intereses privados. Esto permitiría que el estado pueda abordar los problemas del país sin influencias de capitales sin trazabilidad clara.
 
 Opciones que podrían ser contraproducentes:
 - Privatización de la seguridad: Si la seguridad, cárceles, y manejo de las armas queda en manos de entes privados, sean empresas o individuos estos pueden
@@ -104,4 +107,4 @@ se le permitiera mantener el 10% de su patrimonio en caso de entregarse, quedar�
 parte y no el total, simplemente estaríamos premiando a los narcos cuando quieran retirarse, legalizando su dinero, e incentivando el camino del narcotráfico
 como medio de enriquecimiento.
 
-
+Como Colombianos buscamos lo que creemos que es mejor para el país, nos llena de orgullo tener tanto talento, cultura, y berraquera
