@@ -88,7 +88,7 @@ Algunos paramilitares llegaron a formar parte del gobierno, pero luego fueron ju
 En el periodo de 2005 a 2008 se fundó la piramide DMG, enfocada en el lavado de activos, un intento de legalización del 
 dinero recaudado por medio de la venta de la pasta de Coca.
 
-En gobiernos posteriores hasta los reportes previos a la pandemia, el gobierno de Estados Unidos reportó un incremento de 50.000 Hectarias a 200.000 Hectarias de Coca. Aunque el Gobierno de ese periodo (presidente Duque) asegura que se erradicaron 130.000 Hectarias de Coca, sin embargo, hay reportes que indican que estas cifras pueden estar infladas, y se omite cuanto continuó creciendo el cultivo de Coca en el país.
+En gobiernos posteriores hasta los reportes previos a la pandemia, el gobierno de Estados Unidos reportó un incremento de 50.000 Hectarias a 200.000 Hectarias de Coca. Aunque el Gobierno de ese periodo (presidente Duque) asegura que se erradicaron 130.000 Hectarias de Coca, hay reportes que indican que estas cifras pueden estar infladas, y se omite cuanto continuó creciendo el cultivo de Coca en el país.
 
 Ahora, si queremos solucionar el problema, cómo deberíamos intentarlo, siguiendo el modelo materialista, o el modelo capitalista?
 
