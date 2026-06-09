@@ -47,6 +47,7 @@ El beneficio de los más ricos iría en contra del beneficio del pueblo, favorec
 empresarios internacionales, ya que son los individuos con las mayores riquezas del mundo, como vimos en la historia,
 eran los ingleses y franceses (potencias extranjeras) los principales traficantes. [Guerras del Opio, wikipedia](https://es.wikipedia.org/wiki/Guerras_del_Opio)
 
+### Actualidad en Occidente
 
 En la actualidad el panorama es un poco más complejo, EEUU cataloga las drogas como ilegales, declarando la guerra
 contra las drogas. Esta política se podría pensar que es similar a la de Mao, enfocarse en acabar con traficantes, con una sutil diferencia,
@@ -66,6 +67,8 @@ pero me cuesta pensar que el pais que creó la bomba atómica sea incapaz de aca
 >La represión produce una caída en los suministros y eso aumenta el precio, estimulando la producción en el mundo entero.
 >
 >_Alfred McCoy, Historiador estadounidense._
+
+### Panorama en Colombia
 
 Entendiendo el panorama histórico pasemos a analizar mi país, Colombia. Colombia es un sitio afortunado, su posición geopolítica es
 estratégica ya que conecta el Oceano atlántico con el Pacífico, es la entrada y salida de Sur América, tiene una riqueza hídrica sin igual,
@@ -91,6 +94,8 @@ dinero recaudado por medio de la venta de la pasta de Coca.
 En gobiernos posteriores hasta los reportes previos a la pandemia, el gobierno de Estados Unidos reportó un incremento de 50.000 Hectarias a 200.000 Hectarias de Coca. Aunque el Gobierno de ese periodo (presidente Duque) asegura que se erradicaron 130.000 Hectarias de Coca, hay reportes que indican que estas cifras pueden estar infladas, y se omite cuanto continuó creciendo el cultivo de Coca en el país.
 
 Para finalizar el analisis histórico, recientemente se estima un incremento en las disputas territoriales de estos grupos narcotraficantes, aprovechando la disposición adoptada por el gobierno con la paz total, no se tienen las cifras exactas, pero los reportes de casos de violencia muestran que sigue la tendencia a la alta de gobiernos anteriores, mostrando que estos grupos armados no cesan de perseguir sus intereses económicos, y las soluciones completamente de guerra o completamente de paz no han funcionado en su erradicación, solo en su mitigación.
+
+### Analisis de soluciones
 
 Ahora, si queremos solucionar el problema, cómo deberíamos intentarlo, siguiendo el modelo materialista, o el modelo capitalista?
 
