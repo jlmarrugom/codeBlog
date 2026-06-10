@@ -33,11 +33,11 @@ traficantes ejecutándolos, persiguiendo el problema sin miramientos, se forzó 
 
 No
 
-El beneficio de estos capitalistas habría ido en contra del beneficio del pueblo, favoreciendo a narcotraficantes y empresarios internacionales, ya que son los individuos con las mayores riquezas del mundo, como vimos en la historia, eran los ingleses y franceses (potencias extranjeras) los principales traficantes. (Referencia: [Guerras del Opio, Wikipedia](https://es.wikipedia.org/wiki/Guerras_del_Opio))
+El beneficio de estos capitalistas habría ido en contra del beneficio del pueblo, favoreciendo a narcotraficantes y empresarios internacionales, estos son los individuos con las mayores riquezas del mundo, como vimos en la historia, eran los ingleses y franceses (potencias extranjeras) los principales traficantes. (Referencia: [Guerras del Opio, Wikipedia](https://es.wikipedia.org/wiki/Guerras_del_Opio))
 
 ### Actualidad en Occidente
 
-En la actualidad el panorama es un poco más complejo, EEUU cataloga las drogas como ilegales, declarando la Guerra contra las Drogas. Esta política se podría pensar que es similar a la de Mao al enfocarse en acabar con traficantes, pero con una sutil diferencia: que los traficantes sean de países donde hay interés geopolítico, mientras que internamente en Estados Unidos se culturice el uso de estas, mostrándolas abiertamente en las películas sobre Wall Street, Las Vegas y fiestas juveniles.
+En la actualidad el panorama es un poco más complejo. Estados Unidos cataloga las drogas como ilegales, declarando la Guerra contra las Drogas; a la vez, mantiene algunas de ellas legales en estados como California, donde precisamente se inició la tecnificación del cultivo de marihuana en el mismo periodo de la Crisis Marimbera en Colombia. Se podría pensar que su política es similar a la de Mao, pero con una sutil diferencia: que los objetivos sean traficantes de países donde hay un claro interés geopolítico, mientras que internamente en Estados Unidos se normaliza el uso de estas sustancias, mostrándolas abiertamente en películas sobre Wall Street, Las Vegas y fiestas juveniles, y creando negocios millonarios con cultivos de marihuana tecnificados.
 
 Entonces, si EEUU dice querer acabar con las drogas, ¿por qué no lo hace, si es una potencia mucho mayor de lo que fue China en los tiempos de Mao, es uno de los países más avanzados y con el presupuesto de seguridad más alto del mundo?
 
@@ -96,7 +96,7 @@ el narcotráfico con un enfoque integral. El enfoque debe incluir:
 
 - **Rastreo de movimientos inusuales entre cuentas políticas y empresas:** Usando la UIAF para la trazabilidad de movimientos entre cuentas políticas con entes privados se pueden encontrar redes de corrupción, muchas veces operadas con dinero del narcotráfico, destinado para influir en leyes y proyectos que beneficien intereses particulares. Esto permitiría que el Estado pueda abordar los problemas del país sin influencias de capitales con origen desconocido.
 
-Las soluciones que considero que debemos incluir son las orientadas en fortalecer a las principales víctimas del narcotráfico, campesinos y poblaciones vulnerables que por esas mismas condiciones son presionados o no tienen alternativa. Debemos darles opciones, mejorar la presencia militar en todo el territorio y enfocar esfuerzos en atacar las partes más altas de la cadena, las cuales articulan todo el problema desde posiciones de privilegio. 
+Las soluciones que considero que debemos incluir son las orientadas en fortalecer a las principales víctimas del narcotráfico, campesinos y poblaciones vulnerables que por esas mismas condiciones son presionados o no tienen alternativa. Debemos darles opciones, mejorar la presencia militar en todo el territorio y enfocar esfuerzos en atacar las partes más altas de la cadena, las cuales articulan todo el problema desde posiciones de privilegio.
 
 ### ¿Qué debemos buscar?
 Como colombianos buscamos lo que creemos que es mejor para el país, nos llena de orgullo tener tanto talento, cultura y berraquera. No podemos dejar que intereses extranjeros vengan a imponer políticas que no nos beneficien realmente, debemos defender nuestra soberanía, buscar aumentar la productividad de nuestro campo, dar oportunidades a las personas y tratarnos con respeto y aprecio.
