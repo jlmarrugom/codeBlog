@@ -12,52 +12,38 @@ _Este artículo es parte de una investigación histórica, puede ser sujeto a ac
 
 ### Una Visión Histórica
 
-En 1839 comenzó algo incoherente para muchos, pero esperado para los que conocen la historia del "libre mercado". Los británicos comienzan una guerra con China, la primera guerra del Opio.
-El opio es una sustancia narcótica muy adictiva obtenida del látex de la amapola, los mongoles se la vendían a los chinos a pequeña escala hasta que la compañía Británica de las Indias Orientales monopolizó el comercio.
+En 1839 comenzó algo incoherente para muchos, pero esperado para los que conocen la historia del "libre mercado". Los británicos comienzan una guerra con China: la primera guerra del Opio.
+El opio es una sustancia narcótica muy adictiva obtenida del látex de la amapola, los mongoles se la vendían a los chinos a pequeña escala hasta que la Compañía Británica de las Indias Orientales monopolizó el comercio.
 
-Esto permitió compensar el enorme déficit comercial de los británicos con China, ya que en Reino Unido los
-productos como el té, la seda, y la porcelana eran altamente demandados, pero las mercancías
-británicas no eran apetecidas en China, Reino Unido debía pagar con plata y esto causaba una
-salida considerable de este metal.
+Esto permitió compensar el enorme déficit comercial de los británicos con China, ya que en Reino Unido los productos como el té, la seda y la porcelana eran altamente demandados, pero las mercancías británicas no eran apetecidas en China. Reino Unido debía pagar con plata y esto causaba una salida considerable de este metal.
 
-Para contrarrestar ese déficit, los Ingleses comienzan a exportar ilegalmente opio a China desde el siglo XVIII. Al ser el Opio una sustancia tan adictiva, su comercio creció rápidamente y el desbalance entre la plata que salía y entraba a Reino Unido comenzó a reducirse.
+Para contrarrestar ese déficit, los Ingleses comienzan a exportar opio ilegalmente a China desde el siglo XVIII. Al ser el Opio una sustancia tan adictiva, su comercio creció rápidamente y el desbalance entre la plata que salía y entraba a Reino Unido comenzó a reducirse.
 
-El emperador Daoguang(道光) prohibió la venta y el consumo de opio en 1829 debido a la gran cantidad de adictos.
-Los británicos no podían perder esa forma de equilibrar el comercio con China, y debido a constantes incautaciones de opio, en 1839 comienzan
-la primera guerra. Inglaterra acusa a China de destruir mercancías británicas, y para imponer el tráfico del opio, se bloquea comercialmente a China, y embarcaciones británicas y estadounidenses comienzan altercados en Hong Kong, ganan.
+El emperador Daoguang (道光) prohibió la venta y el consumo de opio en 1829 debido a la gran cantidad de adictos.
+Los británicos no podían perder esa forma de equilibrar el comercio con China, y debido a constantes incautaciones de opio, en 1839 comienzan la Primera Guerra del Opio. Inglaterra acusa a China de destruir mercancías británicas, y para imponer el tráfico del opio, se bloquea comercialmente a China, y embarcaciones británicas y estadounidenses comienzan altercados en Hong Kong, y ganan.
 
 China se ve obligada a comerciar opio, los británicos obligan a China a firmar tratados desiguales,
-se anexionan Hong Kong, y China ve como su gran país pierde soberanía dejando que Ingleses, 
-Franceses, y Portugueses hagan lo que quieran en su territorio, traficar Opio, y militarizar zonas de distribución maritimas y terrestres. Los chinos impotentes viendo sufrir a su gente, los imperios en pleno auge siguiendo lo más importante para ellos, el aumento del capital.
+se anexionan Hong Kong y China ve como su gran país pierde soberanía dejando que Ingleses, 
+Franceses, y Portugueses hagan lo que quieran en su territorio, traficar Opio, y militarizar zonas de distribución marítimas y terrestres. Los chinos impotentes viendo sufrir a su gente, los imperios, en pleno auge, siguiendo lo más importante para ellos, el aumento del capital.
 
-Esto hasta que llega Mao Zedong(毛泽东), en 1950, se enfocó en acabar con los grandes
-traficantes ejecutandolos, persiguiendo el problema sin miramientos, se forzó la rehabilitación, al igual que la sustitución de cultivos de amapolas por cultivos de alimentos básicos, y China se convirtió en uno de los países con la normativa antidrogas más estrictas del mundo,
-todo para el beneficio del pueblo, de la gente, por encima de las relaciones comerciales con occidente.
+Esto hasta que llega Mao Zedong (毛泽东). En 1950, se enfocó en acabar con los grandes
+traficantes ejecutándolos, persiguiendo el problema sin miramientos, se forzó la rehabilitación, al igual que la sustitución de cultivos de amapolas por cultivos de alimentos básicos, y China se convirtió en uno de los países con la normativa antidrogas más estrictas del mundo, todo para el beneficio del pueblo, de la gente, por encima de las relaciones comerciales con occidente.
 
-Hubiera sido posible que un gobierno que prioriza el beneficio de los más ricos, la concentración de tierras en manos de grandes capitalistas,
-y la intrusión de potencias extranjeras dentro de China acabara con el tráfico del Opio de la misma
-forma que hizo Mao?
+¿Hubiera sido posible que un gobierno que prioriza el beneficio de los más ricos, la concentración de tierras en manos de grandes capitalistas, y la intrusión de potencias extranjeras dentro de China, acabara con el tráfico del Opio de la misma forma que hizo Mao?
 
 No
 
-El beneficio de estos capitalistas habría ido en contra del beneficio del pueblo, favoreciendo a narcotraficantes, y
-empresarios internacionales, ya que son los individuos con las mayores riquezas del mundo, como vimos en la historia,
-eran los ingleses y franceses (potencias extranjeras) los principales traficantes. (Referencia: [Guerras del Opio, Wikipedia](https://es.wikipedia.org/wiki/Guerras_del_Opio))
+El beneficio de estos capitalistas habría ido en contra del beneficio del pueblo, favoreciendo a narcotraficantes, y empresarios internacionales, ya que son los individuos con las mayores riquezas del mundo, como vimos en la historia, eran los ingleses y franceses (potencias extranjeras) los principales traficantes. (Referencia: [Guerras del Opio, Wikipedia](https://es.wikipedia.org/wiki/Guerras_del_Opio))
 
 ### Actualidad en Occidente
 
-En la actualidad el panorama es un poco más complejo, EEUU cataloga las drogas como ilegales, declarando la guerra
-contra las drogas. Esta política se podría pensar que es similar a la de Mao, enfocarse en acabar con traficantes, con una sutil diferencia,
-que los traficantes sean de países donde hay interés geopolítico, mientras que internamente en Estados Unidos se culturice el uso de estas,
-mostrandolas abiertamente en las películas sobre Wall Street, Las Vegas, y fiestas juveniles.
+En la actualidad el panorama es un poco más complejo, EEUU cataloga las drogas como ilegales, declarando la Guerra contra las Drogas. Esta política se podría pensar que es similar a la de Mao al enfocarse en acabar con traficantes, pero con una sutil diferencia:
+que los traficantes sean de países donde hay interés geopolítico, mientras que internamente en Estados Unidos se culturice el uso de estas, mostrándolas abiertamente en las películas sobre Wall Street, Las Vegas, y fiestas juveniles.
 
-Entonces, si EEUU dice querer acabar con las drogas, por qué no lo hace, si es una potencia mucho mayor que lo que fue
-China en los tiempos de Mao, es uno de los países más avanzados y con el presupuesto de seguridad más alto del mundo?
+Entonces, si EEUU dice querer acabar con las drogas ¿por qué no lo hace, si es una potencia mucho mayor de lo que fue China en los tiempos de Mao, es uno de los países más avanzados y con el presupuesto de seguridad más alto del mundo?
 
 Una posible explicación es que realmente el gobierno de EEUU no busca el bienestar del pueblo estadounidense, más bien,
-busca el bienestar de los grandes capitales, empresas de armas, tabaco, licor, hidrocarburos, los grandes capitalistas,
-quienes realmente dictan las políticas en EEUU, ponen y quitan presidentes, y se benefician con guerras, contra dictaduras,
-grupos extremistas, o contra las drogas. (Referencia: [Guerra contra las drogas, Wikipedia](https://es.wikipedia.org/wiki/Guerra_contra_las_drogas))
+busca el bienestar de los grandes capitales, empresas de armas, tabaco, licor e hidrocarburos; es decir, los grandes capitalistas, quienes realmente dictan las políticas en EEUU, ponen y quitan presidentes, y se benefician con guerras, contra dictaduras, grupos extremistas, o contra las drogas. (Referencia: [Guerra contra las drogas, Wikipedia](https://es.wikipedia.org/wiki/Guerra_contra_las_drogas))
 
 Otra posible explicación sería que la guerra contra las drogas le quedó grande, y realmente son incapaces de competir contra el narcotráfico.
 Sin embargo, me cuesta pensar que el país que creó la bomba atómica, y llegó a la Luna, sea incapaz de acabar con un problema ya solucionado en China hace más de 50 años.
