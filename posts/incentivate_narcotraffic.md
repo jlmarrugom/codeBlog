@@ -54,27 +54,26 @@ Sin embargo, me cuesta pensar que el país que creó la bomba atómica, y llegó
 ### Panorama en Colombia
 
 Entendiendo el panorama histórico pasemos a analizar mi país, Colombia. Colombia es un sitio afortunado, su posición geopolítica es
-estratégica ya que conecta el Océano Atlántico con el Pacífico, es la entrada y salida de Sur América, tiene una riqueza hídrica sin igual,
-pero un problema de narcotráfico tremendo.
+estratégica ya que conecta el Océano Atlántico con el Pacífico, es la entrada y salida de Sudamérica, tiene una riqueza hídrica sin igual, pero un problema de narcotráfico tremendo.
 
 Este problema de narcotráfico en Colombia comienza fuertemente a partir de 1980, cuando los grupos armados utilizan esta actividad como principal medio de financiación, en especial las guerrillas y posteriormente los grupos paramilitares. Se implementó la política de extradición de 
-narcotraficantes con el fin de debilitar las redes locales, pero curiosamente a pesar del programa de la guerra contra las drogas de EEUU,
+narcotraficantes con el fin de debilitar las redes locales, pero curiosamente a pesar del programa de la Guerra contra las Drogas de EEUU,
 y la persecución de grupos armados financiados por el narcotráfico, en 2004 se reportó que Colombia fue el país donde se concentraba el 70%
 de la distribución, y el 90% del procesamiento a nivel global, el informe coincide con el periodo en que Álvaro Uribe Vélez fue el presidente de Colombia (2002-2010).
 
-En este periodo también se consolidaron grupos armados como Las Bacrim, Los Urabeños, Los Rastrojos, el Erpac, y la Oficina de Envigado, todos con el narcotráfico como principal medio de financiación, algunos se beneficiaron con ayudas por parte del gobierno para acabar con guerrillas como las FARC en zonas de tráfico disputadas. Así lograron tener el monopolio del narcotráfico, desplazaron población campesina y acapararon tierras em favor de individuos cómplices o beneficiados de la supremacía de estos grupos armados.
+En este periodo también se consolidaron grupos armados como Las Bacrim, Los Urabeños, Los Rastrojos, el Erpac, y la Oficina de Envigado, todos con el narcotráfico como principal medio de financiación, algunos se beneficiaron con ayudas por parte del gobierno para acabar con guerrillas como las FARC en zonas de tráfico disputadas. Así lograron tener el monopolio del narcotráfico, desplazaron población campesina y acapararon tierras en favor de individuos cómplices o beneficiados de la supremacía de estos grupos armados.
 
 Algunos paramilitares llegaron a formar parte del gobierno, pero luego fueron judicializados por parapolítica, lavado de activos, y corrupción.
 
-En el periodo de 2005 a 2008 estuvo en auge la pirámide DMG, enfocada en el lavado de activos, un intento de legalización del dinero recaudado por medio de la venta de la pasta de Coca.
+En el periodo entre 2005 y 2008 estuvo en auge la pirámide DMG, enfocada en el lavado de activos, un intento de legalización del dinero recaudado por medio de la venta de la pasta de Coca.
 
 En estudios previos a la pandemia, el gobierno de Estados Unidos reportó un incremento de 50.000 hectáreas a 200.000 hectáreas de coca. Aunque el gobierno de ese periodo (presidente Duque) asegura que se erradicaron 130.000 hectáreas de coca, hay reportes que indican que estas cifras pueden estar infladas, y se omite cuanto continuó creciendo el cultivo de coca en el país. (Referencia: [Narcotráfico en Colombia, Wikipedia](https://es.wikipedia.org/wiki/Narcotr%C3%A1fico_en_Colombia))
 
-Para finalizar el análisis histórico, recientemente se estima un incremento en las disputas territoriales de estos grupos narcotraficantes aprovechando la disposición adoptada por el gobierno con la paz total. No se tienen las cifras exactas, pero los reportes de casos de violencia muestran que sigue la tendencia a la alta de gobiernos anteriores. Esto confirma que los grupos armados no cesan de perseguir sus intereses económicos, y las soluciones completamente de guerra o completamente de paz no han funcionado en su erradicación, solo en su mitigación.
+Para finalizar el análisis histórico, recientemente se estima un incremento en las disputas territoriales de estos grupos narcotraficantes aprovechando la disposición adoptada por el gobierno con la Paz Total. No se tienen las cifras exactas, pero los reportes de casos de violencia muestran que sigue la tendencia al alza de gobiernos anteriores. Esto confirma que los grupos armados no cesan de perseguir sus intereses económicos, y las soluciones completamente de guerra o completamente de paz no han funcionado en su erradicación, solo en su mitigación.
 
 Por otro lado, si permitimos que los narcotraficantes sigan influyendo desde el gobierno, por medio de su dinero, que es abundante, podríamos volver al inicio del problema: enfocarse en atacar a los agricultores y pequeños distribuidores, mientras los capitalistas del narcotráfico dictan las políticas nacionales, y viven cómodamente camuflados entre los “empresarios exitosos” del país.
 
-Entonces, es necesario buscar las negociaciones desde una posición de superioridad militar y económica, querer negociar desde una posición de inferioridad no es una negociación, es una plegaria.
+Entonces es necesario buscar las negociaciones desde una posición de superioridad militar y económica, querer negociar desde una posición de inferioridad no es una negociación, es una plegaria.
 
 ### Análisis de soluciones
 
