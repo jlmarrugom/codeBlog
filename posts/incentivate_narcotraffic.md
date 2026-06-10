@@ -37,15 +37,14 @@ El beneficio de estos capitalistas habría ido en contra del beneficio del puebl
 
 ### Actualidad en Occidente
 
-En la actualidad el panorama es un poco más complejo, EEUU cataloga las drogas como ilegales, declarando la Guerra contra las Drogas. Esta política se podría pensar que es similar a la de Mao al enfocarse en acabar con traficantes, pero con una sutil diferencia:
-que los traficantes sean de países donde hay interés geopolítico, mientras que internamente en Estados Unidos se culturice el uso de estas, mostrándolas abiertamente en las películas sobre Wall Street, Las Vegas, y fiestas juveniles.
+En la actualidad el panorama es un poco más complejo, EEUU cataloga las drogas como ilegales, declarando la Guerra contra las Drogas. Esta política se podría pensar que es similar a la de Mao al enfocarse en acabar con traficantes, pero con una sutil diferencia: que los traficantes sean de países donde hay interés geopolítico, mientras que internamente en Estados Unidos se culturice el uso de estas, mostrándolas abiertamente en las películas sobre Wall Street, Las Vegas y fiestas juveniles.
 
-Entonces, si EEUU dice querer acabar con las drogas ¿por qué no lo hace, si es una potencia mucho mayor de lo que fue China en los tiempos de Mao, es uno de los países más avanzados y con el presupuesto de seguridad más alto del mundo?
+Entonces, si EEUU dice querer acabar con las drogas, ¿por qué no lo hace, si es una potencia mucho mayor de lo que fue China en los tiempos de Mao, es uno de los países más avanzados y con el presupuesto de seguridad más alto del mundo?
 
 Una posible explicación es que realmente el gobierno de EEUU no busca el bienestar del pueblo estadounidense, más bien,
 busca el bienestar de los grandes capitales, empresas de armas, tabaco, licor e hidrocarburos; es decir, los grandes capitalistas, quienes realmente dictan las políticas en EEUU, ponen y quitan presidentes, y se benefician con guerras, contra dictaduras, grupos extremistas, o contra las drogas. (Referencia: [Guerra contra las drogas, Wikipedia](https://es.wikipedia.org/wiki/Guerra_contra_las_drogas))
 
-Otra posible explicación sería que la guerra contra las drogas le quedó grande, y realmente son incapaces de competir contra el narcotráfico.
+Otra posible explicación sería que la Guerra contra las Drogas le quedó grande, y realmente son incapaces de competir contra el narcotráfico.
 Sin embargo, me cuesta pensar que el país que creó la bomba atómica, y llegó a la Luna, sea incapaz de acabar con un problema ya solucionado en China hace más de 50 años.
 
 >La represión produce una caída en los suministros y eso aumenta el precio, estimulando la producción en el mundo entero.
