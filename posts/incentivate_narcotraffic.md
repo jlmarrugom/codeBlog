@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Una historia del Narcotráfico
+title: Una Historia del Narcotráfico
 date: 2026-06-08
 read_time: 10 min
 ---
